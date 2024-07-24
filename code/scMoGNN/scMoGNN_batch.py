@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 23 09:49:10 2024
-
-@author: LCY
-"""
 import argparse
 import os
 from argparse import Namespace
